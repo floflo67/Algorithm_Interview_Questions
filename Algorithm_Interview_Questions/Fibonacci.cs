@@ -35,7 +35,7 @@ namespace Algorithm_Interview_Questions
         /// </summary>
         /// <param name="number">The number to analyze</param>
         /// <returns>The index in the fibonacci suite where you can find "number"</returns>
-        public int ReverseUsingRecurrence(int number)
+        public int ReverseUsingRecurrenceMethod(int number)
         {
             if(number == 0)
                 return 0;
