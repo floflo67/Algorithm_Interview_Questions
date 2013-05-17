@@ -10,8 +10,9 @@ namespace Algorithm_Interview_Questions
     {
         /* Let's do a few funny things using strings
          * First: if palindrome or not
+         * Second: reverse a string
          */
-
+        #region First
         // a palindrome is a word/sentence that you can read both ways
         // example : lol, kayak, level, redder, madam, etc...
 
@@ -59,5 +60,9 @@ namespace Algorithm_Interview_Questions
             }
             return true;
         }
+        #endregion
+
+        #region Second
+        #endregion
     }
 }
